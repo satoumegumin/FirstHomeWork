@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\FIrstHomeWork\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Users\Administrator\source\repos\FIrstHomeWork\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Administrator\source\repos\FIrstHomeWork\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Administrator\source\repos\FIrstHomeWork\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FIrstHomeWork\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FIrstHomeWork\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FIrstHomeWork\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Users\Administrator\source\repos\FIrstHomeWork\Model\obj\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Administrator\source\repos\FIrstHomeWork\Model\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Administrator\source\repos\FIrstHomeWork\Model\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Administrator\source\repos\FIrstHomeWork\Model\obj\Debug\netcoreapp3.1\Model.csproj.CopyComplete

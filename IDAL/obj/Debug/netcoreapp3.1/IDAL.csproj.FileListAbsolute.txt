@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\FIrstHomeWork\IDAL\bin\Debug\netcoreapp3.1\IDAL.deps.json
+C:\Users\Administrator\source\repos\FIrstHomeWork\IDAL\bin\Debug\netcoreapp3.1\IDAL.dll
+C:\Users\Administrator\source\repos\FIrstHomeWork\IDAL\bin\Debug\netcoreapp3.1\IDAL.pdb
+C:\Users\Administrator\source\repos\FIrstHomeWork\IDAL\obj\Debug\netcoreapp3.1\IDAL.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FIrstHomeWork\IDAL\obj\Debug\netcoreapp3.1\IDAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FIrstHomeWork\IDAL\obj\Debug\netcoreapp3.1\IDAL.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FIrstHomeWork\IDAL\obj\Debug\netcoreapp3.1\IDAL.dll
+C:\Users\Administrator\source\repos\FIrstHomeWork\IDAL\obj\Debug\netcoreapp3.1\IDAL.pdb
+C:\Users\Administrator\source\repos\FIrstHomeWork\IDAL\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Administrator\source\repos\FIrstHomeWork\IDAL\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Administrator\source\repos\FIrstHomeWork\IDAL\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Administrator\source\repos\FIrstHomeWork\IDAL\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Administrator\source\repos\FIrstHomeWork\IDAL\obj\Debug\netcoreapp3.1\IDAL.csproj.CopyComplete

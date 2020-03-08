@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\bin\Debug\netcoreapp3.1\IDAL.dll
+C:\Users\Administrator\source\repos\FIrstHomeWork\DAL\bin\Debug\netcoreapp3.1\IDAL.pdb

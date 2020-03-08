@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\FIrstHomeWork\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Administrator\source\repos\FIrstHomeWork\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Administrator\source\repos\FIrstHomeWork\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Administrator\source\repos\FIrstHomeWork\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FIrstHomeWork\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FIrstHomeWork\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Administrator\source\repos\FIrstHomeWork\Common\obj\Debug\netcoreapp3.1\Common.pdb
