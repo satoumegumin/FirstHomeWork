@@ -5,3 +5,4 @@ C:\Users\Administrator\source\repos\FIrstHomeWork\Common\obj\Debug\netcoreapp3.1
 C:\Users\Administrator\source\repos\FIrstHomeWork\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
 C:\Users\Administrator\source\repos\FIrstHomeWork\Common\obj\Debug\netcoreapp3.1\Common.dll
 C:\Users\Administrator\source\repos\FIrstHomeWork\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Administrator\source\repos\FIrstHomeWork\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
